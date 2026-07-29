@@ -1,0 +1,43 @@
+COUNTERPARTY EXPOSURE RISK POLICY
+Document ID: RP-2024-011 (Synthetic/Fictional — for demonstration purposes only)
+Effective Date: January 15, 2024
+Owner: Enterprise Risk Management Division
+
+1. PURPOSE
+This policy establishes the framework for measuring, monitoring, and limiting counterparty
+credit exposure across all trading and lending desks at Meridian Fictional Bank ("the Bank").
+Counterparty exposure risk arises when a trading partner, borrower, or issuer fails to meet
+its contractual obligations, resulting in financial loss to the Bank.
+
+2. EXPOSURE LIMITS
+No single counterparty rated investment-grade (BBB- or above) may account for more than 8% of
+the Bank's Tier 1 capital in aggregate exposure. Counterparties rated below investment-grade
+are capped at 2% of Tier 1 capital. Exposure is calculated using current mark-to-market value
+plus a potential future exposure (PFE) add-on determined by asset class and maturity.
+
+3. CONCENTRATION THRESHOLDS
+Aggregate exposure to any single industry sector shall not exceed 25% of the total counterparty
+credit portfolio. Aggregate exposure to counterparties domiciled in a single non-OECD jurisdiction
+shall not exceed 10% of the total portfolio. Breaches must be reported to the Chief Risk Officer
+within one business day.
+
+4. NETTING AND COLLATERAL
+Exposure calculations may incorporate legally enforceable netting agreements (ISDA Master
+Agreements with a Credit Support Annex) and eligible collateral, subject to a minimum haircut
+of 2% for cash and 8% for investment-grade government securities. Collateral must be
+revalued daily.
+
+5. MONITORING AND ESCALATION
+The Counterparty Risk Committee reviews aggregate exposures weekly. Any counterparty exceeding
+90% of its assigned limit triggers an amber alert and mandatory review; exceeding 100% triggers
+a red alert, immediate trading freeze with that counterparty, and escalation to the CRO and
+Board Risk Committee within 24 hours.
+
+6. STRESS TESTING
+Counterparty exposures are stress-tested quarterly against a minimum of three scenarios: a
+sudden two-notch downgrade of the largest 10 counterparties, a 30% market value shock to
+derivative positions, and a correlated default of the top 3 counterparties in a single sector.
+
+7. REVIEW CYCLE
+This policy is reviewed annually by Enterprise Risk Management and approved by the Board Risk
+Committee. Exceptions require written CRO sign-off and expire after 90 days unless renewed.

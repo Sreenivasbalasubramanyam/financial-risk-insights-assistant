@@ -1,0 +1,38 @@
+ANALYST NOTES — SETTLEMENT RISK (SYNTHETIC / FICTIONAL)
+Document ID: AN-2024-SETTLEMENT-07
+Author: Settlement Risk Analytics Team
+Distribution: Internal — Risk and Treasury Operations
+
+1. OVERVIEW
+Settlement risk is the risk that a counterparty fails to deliver its side of a transaction
+(cash or securities) after the Bank has already delivered its side, or that settlement occurs
+outside of expected timing, exposing the Bank to principal or replacement-cost risk.
+
+2. KEY OBSERVATIONS THIS QUARTER
+Settlement fails increased 12% quarter-over-quarter, concentrated in cross-currency swaps and
+FX forwards settling through correspondent banks in Asia-Pacific time zones. The most common
+root cause (61% of fails) was nostro account funding timing mismatches rather than counterparty
+credit issues. A smaller but notable share (18%) involved incorrect standard settlement
+instructions (SSIs) that had not been updated after a counterparty changed custodians.
+
+3. PVP AND DVP COVERAGE
+Approximately 74% of FX settlement volume is currently covered by Payment-versus-Payment (PvP)
+arrangements via CLS Bank, which eliminates principal settlement risk for those trades. The
+remaining 26%, largely emerging-market currency pairs not eligible for CLS, settle on a
+non-PvP basis and carry full principal risk during the settlement window.
+
+4. RECOMMENDATIONS
+(a) Expand SSI verification automation to flag stale custodian records older than 180 days.
+(b) Negotiate PvP-eligible settlement for the top 5 emerging-market currency corridors by volume.
+(c) Increase nostro pre-funding buffers for APAC cut-off windows by 20% during quarter-end
+volume spikes. (d) Introduce a real-time settlement fail dashboard for the Treasury desk with
+automatic escalation if a fail is not resolved within 4 hours.
+
+5. LINKAGE TO COUNTERPARTY EXPOSURE POLICY
+Repeated settlement fails with a single counterparty (three or more in a rolling 90-day period)
+should be factored into the counterparty's internal risk rating and considered during the
+quarterly exposure limit review described in the Counterparty Exposure Risk Policy.
+
+6. NEXT REVIEW
+This analysis will be refreshed next quarter with updated fail-rate statistics and CLS coverage
+percentages following onboarding of two additional currency corridors.

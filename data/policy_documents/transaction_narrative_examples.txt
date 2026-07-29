@@ -1,0 +1,38 @@
+TRANSACTION NARRATIVE EXAMPLES (SYNTHETIC / FICTIONAL)
+Document ID: TN-2024-SAMPLES
+Purpose: Illustrative transaction narratives used for analyst training and RAG demonstration.
+All customer names, account numbers, and amounts below are fictional.
+
+NARRATIVE 1 — Case #TXN-88231
+Customer "J. Alvarez" (fictional) initiated four wire transfers of $9,400, $9,600, $9,200, and
+$9,800 to four different beneficiaries over a 48-hour period, each just under the $10,000
+Currency Transaction Report threshold. Pattern is consistent with structuring behavior described
+in the AML Compliance Policy. Analyst flagged for SAR consideration; account placed under
+enhanced monitoring for 90 days.
+
+NARRATIVE 2 — Case #TXN-90112
+A commercial account associated with "Blue Harbor Logistics" (fictional shell entity) received
+three incoming wires totaling $480,000 from an offshore jurisdiction on the FATF grey list,
+followed within 24 hours by an outbound wire of $475,000 to an unrelated third party with no
+apparent business purpose. Rapid pass-through movement of funds is a classic layering indicator
+under the AML Compliance Policy; case escalated to the Financial Crimes Committee.
+
+NARRATIVE 3 — Case #TXN-77490
+Retail customer reported a $2,340 card-not-present purchase at an electronics retailer they did
+not recognize. Fraud Detection Engine score was 91 at time of transaction; device fingerprint did
+not match any of the customer's previously seen devices, and billing geolocation was 1,200 miles
+from the customer's registered address. Consistent with Fraud Detection Policy velocity rule (c).
+Transaction was auto-declined; customer confirmed no authorization; case closed as prevented fraud.
+
+NARRATIVE 4 — Case #TXN-81005
+Counterparty "Silverline Capital Partners" (fictional, non-investment-grade rated) breached 92%
+of its assigned exposure limit following a large derivative mark-to-market swing after a sector-wide
+credit spread widening event. Amber alert triggered per Counterparty Exposure Risk Policy Section 5;
+Counterparty Risk Committee reviewed the position and reduced the limit allocation by 15% pending
+a scheduled ratings review.
+
+NARRATIVE 5 — Case #TXN-93217
+Settlement of a cross-currency swap with counterparty "Northgate Trading" failed to settle on
+value date due to a nostro account funding shortfall. Settlement risk was elevated for approximately
+6 hours before funds were located and the trade settled T+1. Incident logged per Analyst Notes on
+Settlement Risk; no financial loss realized, but operational root cause review was opened.

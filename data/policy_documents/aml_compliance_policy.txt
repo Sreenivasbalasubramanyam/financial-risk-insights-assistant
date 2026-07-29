@@ -1,0 +1,48 @@
+ANTI-MONEY LAUNDERING (AML) COMPLIANCE POLICY
+Document ID: AML-2024-002 (Synthetic/Fictional — for demonstration purposes only)
+Effective Date: February 1, 2024
+Owner: BSA/AML Compliance Office
+
+1. PURPOSE
+This policy sets the standards for detecting, deterring, and reporting money laundering and
+terrorist financing activity in accordance with fictional analogues of the Bank Secrecy Act
+and FinCEN reporting requirements, for the purposes of this internal demonstration.
+
+2. CUSTOMER DUE DILIGENCE (CDD)
+All new customers undergo risk-based CDD at onboarding, including identity verification,
+beneficial ownership identification for entities (25% or greater ownership threshold), and
+screening against sanctions and politically exposed persons (PEP) lists. High-risk customers,
+including money services businesses, cash-intensive businesses, and customers in high-risk
+jurisdictions, undergo Enhanced Due Diligence (EDD) with review at least every 12 months.
+
+3. STRUCTURING DETECTION
+Structuring — breaking large cash or wire transactions into smaller amounts to evade the
+$10,000 Currency Transaction Report (CTR) threshold — is a designated red flag. Automated
+surveillance flags any customer with three or more transactions between $8,000 and $9,999
+within a rolling 7-day window for mandatory analyst review.
+
+4. SUSPICIOUS ACTIVITY REPORTING (SAR)
+Analysts must document the basis for any SAR decision within the case management system.
+SARs must be filed within 30 calendar days of initial detection of suspicious activity (or
+60 days if additional time is needed to identify a suspect). Common triggers include
+structuring, rapid layering of funds through shell entities, transactions with no apparent
+business or lawful purpose, and unexplained wires to or from FATF grey-list jurisdictions.
+
+5. LAYERING AND SHELL ENTITY INDICATORS
+Indicators include: pass-through accounts with minimal balance retention, incoming funds from
+one jurisdiction immediately wired to an unrelated third party, shared registered addresses
+across multiple corporate customers, and inconsistency between stated business purpose and
+observed transaction activity.
+
+6. TRAINING AND GOVERNANCE
+All customer-facing and risk staff complete AML training annually. The BSA Officer reports
+program effectiveness, SAR volume, and emerging typologies to the Board Audit Committee
+quarterly.
+
+7. RECORD RETENTION
+CDD records, SAR filings, and supporting case files are retained for a minimum of 5 years
+from the date of filing or account closure, whichever is later.
+
+8. REVIEW CYCLE
+This policy is reviewed annually and updated as needed to reflect changes in regulatory
+guidance and emerging typologies identified by the Financial Crimes Committee.

@@ -1,0 +1,46 @@
+FRAUD DETECTION AND PREVENTION POLICY
+Document ID: FD-2024-004 (Synthetic/Fictional — for demonstration purposes only)
+Effective Date: March 1, 2024
+Owner: Financial Crimes and Fraud Prevention Unit
+
+1. PURPOSE
+This policy defines the standards Meridian Fictional Bank uses to detect, investigate, and
+respond to suspected fraudulent activity across retail, commercial, and card payment channels.
+
+2. FRAUD RISK SCORING
+Every transaction is scored in real time by the Fraud Detection Engine (FDE) on a scale of
+0-100, combining device fingerprinting, behavioral biometrics, velocity checks, and geolocation
+anomalies. Transactions scoring above 85 are auto-declined pending manual review. Transactions
+scoring between 60 and 85 are routed to the Tier 1 Fraud Analyst queue for review within
+15 minutes during business hours and 60 minutes overnight.
+
+3. VELOCITY AND PATTERN RULES
+Automated rules flag: (a) more than 5 card-not-present transactions within a 10-minute window,
+(b) a new payee added followed by a transfer exceeding $5,000 within 24 hours, (c) login from
+a device or IP geolocation more than 500 miles from the customer's registered address followed
+by a high-value transaction, and (d) structuring patterns consistent with multiple transactions
+just below the $10,000 reporting threshold.
+
+4. CASE INVESTIGATION WORKFLOW
+Flagged cases are assigned a case ID and investigated by a Tier 1 analyst within the SLA above.
+Confirmed fraud cases are escalated to Tier 2 for chargeback processing, customer notification,
+and card reissuance. Suspected first-party fraud or organized fraud rings are escalated to the
+Special Investigations Unit (SIU).
+
+5. CUSTOMER LIABILITY AND REIMBURSEMENT
+Verified unauthorized transactions are reimbursed to the customer within 10 business days per
+Regulation E requirements, subject to completion of the required affidavit of fraud.
+
+6. MODEL GOVERNANCE
+The FDE scoring model is retrained quarterly using labeled fraud outcomes and validated by the
+Model Risk Management team before deployment. Model drift is monitored weekly using population
+stability index (PSI); a PSI above 0.25 triggers mandatory model review.
+
+7. REPORTING
+Confirmed fraud losses exceeding $25,000 in a single incident, or patterns suggesting organized
+fraud rings, must be reported to the Financial Crimes Committee within 48 hours and may trigger
+a Suspicious Activity Report (SAR) filing per AML policy.
+
+8. REVIEW CYCLE
+This policy is reviewed semi-annually by the Fraud Prevention Unit and approved by the Chief
+Risk Officer.
